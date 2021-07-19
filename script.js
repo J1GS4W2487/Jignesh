@@ -64,22 +64,23 @@ var typed = new Typed(".typing-2",{
 	loop: true
 }); 
 var typed = new Typed(".typing3",{
-	strings:["Web Designing"],
-	typeSpeed:100,
-	backSpeed:0,
-	loop: false
+	strings:["Designing"],
+	typeSpeed:60,
+	backSpeed:100,
+	loop: true
 }); 
 var typed = new Typed(".typing4",{
-	strings:["Coding Programs"],
-	typeSpeed:100,
-	backSpeed:0,
-	loop: false
+	strings:[" Programs"],
+	typeSpeed:85,
+	backSpeed:90,
+	loop: true
 }); 
 var typed = new Typed(".typing5",{
-	strings:["Stock Market"],
-	typeSpeed:100,
-	backSpeed:0,
-	loop: false
+	strings:["Market"],
+	typeSpeed:140,
+	backSpeed:100,
+	loop: true
+	
 }); 
 
 
