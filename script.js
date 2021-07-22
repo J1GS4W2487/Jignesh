@@ -78,7 +78,8 @@ var typed = new Typed(".typing4",{
 var typed = new Typed(".typing5",{
 	strings:["Market"],
 	typeSpeed:140,
-	backSpeed:100,
+	backSpeed:70,
+	transition: true,
 	loop: true
 	
 }); 
