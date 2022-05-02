@@ -443,96 +443,93 @@ margin: 10px 0 7px 0;
 .skills .skills-content .right .webd::before{
     width: 50%;
     transition: all 0.3s ease;
-    animation: progres 5s infinite linear;    
+    animation: progres4 5s infinite linear;    
 }
-@keyframes progres{
+@keyframes progres4{
     0%{
       width: 0%;
     }
     25%{
-        width: 36.2%;
-    }
-    50%{
-        width: 49.999%;
-    }
-    75%{
-        width: 49.9999%;
-    }
-    100%{
         width: 50%;
     }
+    50%{
+        width: 100%;
+    }
+    75%{
+        width: 100%;
+    }
+    100%{
+        width: 100%;
+    }
 }
-
 .skills .skills-content .right .prog::before{
     width: 50%;
     transition: all 0.3s ease;
-    animation: progres1 5s infinite linear;    
+    animation: progres4 5s infinite linear;    
 }
-@keyframes progres1{
+@keyframes progres4{
     0%{
       width: 0%;
     }
     25%{
-        width: 36.2%;
-    }
-    50%{
-        width: 49.999%;
-    }
-    75%{
-        width: 49.9999%;
-    }
-    100%{
         width: 50%;
     }
-}
+    50%{
+        width: 100%;
+    }
+    75%{
+        width: 100%;
+    }
+    100%{
+        width: 100%;
+    }
 
+}
 
 .skills .skills-content .right .stock::before{
     width: 50%;
     transition: all 0.3s ease;
-    animation: progres2 5s infinite linear;    
+    animation: progres4 5s infinite linear;    
 }
-@keyframes progres2{
-   0%{
-      width: 0%;
-    }
-    25%{
-        width: 36.2%;
-    }
-    50%{
-        width: 49.999%;
-    }
-    75%{
-        width: 49.9999%;
-    }
-    100%{
-        width: 50%;
-    }
-}
-
-.skills .skills-content .right .cont::before{
-    width: 50%;
-    transition: all 0.3s ease;
-    animation: progres3 5s infinite linear;    
-}
-@keyframes progres3{
+@keyframes progres4{
     0%{
       width: 0%;
     }
     25%{
-        width: 36.2%;
-    }
-    50%{
-        width: 49.999%;
-    }
-    75%{
-        width: 49.9999%;
-    }
-    100%{
         width: 50%;
     }
+    50%{
+        width: 100%;
+    }
+    75%{
+        width: 100%;
+    }
+    100%{
+        width: 100%;
+    }
 }
-
+.skills .skills-content .right .cont::before{
+    width: 50%;
+    transition: all 0.3s ease;
+    animation: progres4 5s infinite linear;    
+}
+@keyframes progres4{
+    0%{
+      width: 0%;
+    }
+    25%{
+        width: 50%;
+    }
+    50%{
+        width: 100%;
+    }
+    75%{
+        width: 100%;
+    }
+    100%{
+        width: 100%;
+    }
+}
 
 .fixed-top {
     position: fixed;
