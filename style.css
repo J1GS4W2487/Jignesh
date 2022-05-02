@@ -441,7 +441,7 @@ margin: 10px 0 7px 0;
 }
 
 .skills .skills-content .right .webd::before{
-    width: 1000%;
+    width: 50%;
     transition: all 0.3s ease;
     animation: progres 5s infinite linear;    
 }
