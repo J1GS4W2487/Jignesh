@@ -441,7 +441,7 @@ margin: 10px 0 7px 0;
 }
 
 .skills .skills-content .right .webd::before{
-    width: 70%;
+    width: 1000%;
     transition: all 0.3s ease;
     animation: progres 5s infinite linear;    
 }
@@ -450,16 +450,16 @@ margin: 10px 0 7px 0;
       width: 0%;
     }
     25%{
-        width: 49.999%;
+        width: 36.2%;
     }
     50%{
-        width: 69.999%;
+        width: 49.999%;
     }
     75%{
-        width: 69.9999%;
+        width: 49.9999%;
     }
     100%{
-        width: 70%;
+        width: 50%;
     }
 }
 
@@ -493,20 +493,20 @@ margin: 10px 0 7px 0;
     animation: progres2 5s infinite linear;    
 }
 @keyframes progres2{
-    0%{
+   0%{
       width: 0%;
     }
     25%{
-        width: 42%;
+        width: 36.2%;
     }
     50%{
-        width: 59.999%;
+        width: 49.999%;
     }
     75%{
-        width: 59.9999%;
+        width: 49.9999%;
     }
     100%{
-        width: 60%;
+        width: 50%;
     }
 }
 
